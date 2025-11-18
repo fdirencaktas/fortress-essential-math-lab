@@ -36,7 +36,9 @@ Every folder contains:
 - **/resources/** — recommended books, links, and references
 
 Example layout:
+
 fortress-essential-math-lab/
+  
   │
   
   ├── algebra/
