@@ -99,7 +99,7 @@ This repo is built to blend these three.
 ## 🚀 Long-Term Vision
 This lab will expand to include:
 
-- Pre-algebra → Algebra → Precalculus → Calculus  
+- Algebra → Precalculus → Calculus  
 - Linear Algebra & Matrix Methods  
 - Probability & Statistics  
 - Optimization and foundational Quant Math  
