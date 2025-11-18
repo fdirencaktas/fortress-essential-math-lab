@@ -37,22 +37,22 @@ Every folder contains:
 
 Example layout:
 fortress-essential-math-lab/
-│
-├── algebra/
-│ ├── README.md
-│ ├── notes/
-│ ├── notebooks/
-│ ├── exercises/
-│ └── resources/
-│
-├── precalculus/
-│ └── ...
-│
-├── calculus/
-│ └── ...
-│
-└── linear-algebra/
-└── ...
+  │
+  ├── algebra/
+  │ ├── README.md
+  │ ├── notes/
+  │ ├── notebooks/
+  │ ├── exercises/
+  │ └── resources/
+  │
+  ├── precalculus/
+  │ └── ...
+  │
+  ├── calculus/
+  │ └── ...
+  │
+  └── linear-algebra/
+  └── ...
 
 ---
 
