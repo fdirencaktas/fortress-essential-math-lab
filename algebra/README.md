@@ -36,18 +36,15 @@ You can update this list as you complete each unit.
 ### ✔ Covered Topics (updated continuously)
 
 * **Algebra Foundations**
-
-  * Variables, expressions, substitution
-  * Combining like terms
-  * Equivalent expressions
-  * Basic manipulations used in later topics
+* **Solving Equations & Inequalities**
+* **Linear Equations & Graphs**
+* **Forms of Linear Equations**
+* **Systems of Equations**
+* **Inequalities (Systems & Graphs)**
 
 
 ### ⏳ Upcoming Topics (not yet completed)
 
-* Solving equations & inequalities
-* Linear equations and graphs
-* Systems of equations
 * Functions
 * Sequences
 * Exponents & radicals
