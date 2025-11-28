@@ -45,13 +45,7 @@ fortress-essential-math-lab/
   
   │ ├── README.md
   
-  │ ├── notes/
-  
   │ ├── notebooks/
-  
-  │ ├── exercises/
-  
-  │ └── resources/
   
   │
   
